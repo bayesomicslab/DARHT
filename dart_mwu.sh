@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python DARHT_CIFAR_100_stateful_MWU.py --modelname CIFAR_100_mwu_from_scrach_kl_stateful_4tchs_2.pth --kd_loss kl --resume 0 --net resnet_std > CIFAR_100_mwu_from_scrach_kl_stateful_4tchs_2.txt&

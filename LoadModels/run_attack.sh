@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python RunAttacks.py>ViT-L_16_tau2.txt&

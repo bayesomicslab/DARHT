@@ -1,0 +1,15 @@
+cuda
+Files already downloaded and verified
+Processing up to sample= 8Processing up to sample= 808Processing up to sample= 1608Processing up to sample= 2408Processing up to sample= 3208Processing up to sample= 4008Processing up to sample= 4808Processing up to sample= 5608Processing up to sample= 6408Processing up to sample= 7208Processing up to sample= 8008Processing up to sample= 8808Processing up to sample= 9608
+Accuracy: 0.9075
+0.9075
+816243240485664728088961041121201281361441521601681761841922002082162242322402482562642722802882963043123203283363443523603683763843924004084164244324404484564644724804884965045125205285365445525605685765845926006086166246326406486566646726806886967047127207287367447527607687767847928008088168248328408488568648728808888969049129209289369449529609689769849921000Processing up to sample= 8Processing up to sample= 88Processing up to sample= 168Processing up to sample= 248Processing up to sample= 328Processing up to sample= 408Processing up to sample= 488Processing up to sample= 568Processing up to sample= 648Processing up to sample= 728Processing up to sample= 808Processing up to sample= 888Processing up to sample= 968
+Processing up to sample= 8Processing up to sample= 88Processing up to sample= 168Processing up to sample= 248Processing up to sample= 328Processing up to sample= 408Processing up to sample= 488Processing up to sample= 568Processing up to sample= 648Processing up to sample= 728Processing up to sample= 808Processing up to sample= 888Processing up to sample= 968
+Processing up to sample= 8Processing up to sample= 88Processing up to sample= 168Processing up to sample= 248Processing up to sample= 328Processing up to sample= 408Processing up to sample= 488Processing up to sample= 568Processing up to sample= 648Processing up to sample= 728Processing up to sample= 808Processing up to sample= 888Processing up to sample= 968
+attack model  /mnt/home/jierendeng/kd/adv_ML_KD/LoadModels/FAT/ViT-B_32_tau2.bin
+model 1 /mnt/home/jierendeng/kd/adv_ML_KD/LoadModels/Vanilla/ViT-B_32.bin
+model 2 /mnt/home/jierendeng/kd/adv_ML_KD/LoadModels/FAT/ViT-L_16_tau2.bin
+attack model acc 0.167
+model 1 acc  0.042
+model 2 acc  0.658
+finished
